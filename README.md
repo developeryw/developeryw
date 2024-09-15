@@ -8,11 +8,11 @@
       I'm majoring in Computer Science and Engineering at Kyungpook Natl'
       University in Daegu, South Korea.
       <br />And I'm interested in Web, especially Front-end including UI/UX
-      design. <br /><br /><i>Please watch my growth</i> 🌱
-      <br />
-      <br />
+      design. <br><br><i>Please watch my growth</i> 🌱
+      <br>
+      <br>
       <h3>🛠️ Tech stack</h3>
-      <b>studying now</b>
+      <b>studying now</b><br>
       <img
         src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       />
