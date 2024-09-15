@@ -4,15 +4,15 @@
   </head>
   <body>
     <div align="center">
-      <h1 style="text-decoration: none;">🥳 Welcome to my Github page ! I'm Yewon Cha 👩🏻‍💻</h1>
+      <h2 style="text-decoration: none;">🥳 Welcome to my Github page ! I'm Yewon Cha 👩🏻‍💻</h2>
       I'm majoring in Computer Science and Engineering at Kyungpook Natl'
       University in Daegu, South Korea.
       <br />And I'm interested in Web, especially Front-end including UI/UX
       design. <br /><br /><i>Please watch my growth</i> 🌱
       <br />
       <br />
-      <h2>🛠️ Tech stack</h2>
-      <h3>studying now</h3>
+      <h3>🛠️ Tech stack</h3>
+      <b>studying now</b>
       <img
         src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       />
