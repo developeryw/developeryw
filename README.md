@@ -4,7 +4,7 @@
   </head>
   <body>
     <div align="center">
-      <h1>🥳 Welcome to my Github page ! I'm Yewon Cha 👩🏻‍💻</h1>
+      <h1 text-decoration="none">🥳 Welcome to my Github page ! I'm Yewon Cha 👩🏻‍💻</h1>
       I'm majoring in Computer Science and Engineering at Kyungpook Natl'
       University in Daegu, South Korea.
       <br />And I'm interested in Web, especially Front-end including UI/UX
