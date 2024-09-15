@@ -1,25 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap"
-      rel="stylesheet"
-    />
-    <style>
-      #main {
-        text-align: center;
-        font-family: "Oswald", sans-serif;
-      }
-      h1,
-      h2 {
-        text-decoration: none;
-      }
-    </style>
   </head>
   <body>
-    <div id="main">
+    <div align="center">
       <h1>🥳 Welcome to my Github page ! I'm Yewon Cha 👩🏻‍💻</h1>
       I'm majoring in Computer Science and Engineering at Kyungpook Natl'
       University in Daegu, South Korea.
