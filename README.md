@@ -29,7 +29,6 @@
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
       <br><br>
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
     </div>
   </body>
 </html>
