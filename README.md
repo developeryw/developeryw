@@ -21,7 +21,7 @@
             <p><b>studying now</b></p>
             <img
               id="java"
-              src="https://img.shields.io/badge/java-2C2255?style=for-the-badge&logo=java&logoColor=white"
+              src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"
             />
             <img
               id="intellij"
@@ -107,10 +107,9 @@
         </div>
       </div>
       <br /><br />
-      <div>
         ![Top
         Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact)
-      </div>
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=developeryw)](https://solved.ac/developeryw/)
     </div>
   </body>
 </html>
