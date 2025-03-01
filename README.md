@@ -33,7 +33,7 @@
       </div>
       </div>
       <br><br>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?developeryw=anuraghazra&layout=compact)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact)
 
     </div>
   </body>
