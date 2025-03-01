@@ -53,6 +53,7 @@
               src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"
             />
           </div>
+          <br />
           <div>
             <p><b>studied</b></p>
             <img
