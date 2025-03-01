@@ -36,7 +36,18 @@ I'm majoring in Computer Science and Engineering
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
 </div>
 <br>
-<div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=developeryw)](https://solved.ac/developeryw)
+<h3>🔎 More about</h3>
+<div align=left>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact">
+  </a>
+  <br>
+  <a href="https://solved.ac/developeryw">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=developeryw">
+  </a>
+</div>
+<br>
+<div align=left>
+  <h3>✉️ Contact</h3>
+  
 </div>
