@@ -4,11 +4,11 @@
   <body>
     <div align="center">
       <h2 style="text-decoration: none">
-        🌸 Welcome to Yewon's Github page 👩🏻‍💻
+        🥳 Welcome to Yewon's Github page 🌸
       </h2>
       <p>
         I'm majoring in Computer Science and Engineering<br />at Kyungpook
-        National University in Daegu, South Korea.
+        National University in Daegu, South Korea 🇰🇷👩🏻‍💻
       </p>
       <br />
       <p><i>Please watch my growth</i> 🌱</p>
