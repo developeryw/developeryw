@@ -109,7 +109,7 @@
       <br /><br />
         ![Top
         Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeryw&layout=compact)
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=developeryw)](https://solved.ac/developeryw/)
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Yewon)](https://solved.ac/developeryw/)
     </div>
   </body>
 </html>
