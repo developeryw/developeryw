@@ -74,6 +74,11 @@
               src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"
             />
             <img
+              id="styled-components"
+              src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"
+            />
+            <br />
+            <img
               id="eclipse"
               src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"
             />
