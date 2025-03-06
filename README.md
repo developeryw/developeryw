@@ -1,6 +1,8 @@
 <div align=center>
 <h2> 🥳 Welcome to Yewon's Github page 🌸</h2>
-I'm majoring in Computer Science and Engineering
+안녕하세요, 경북대학교 컴퓨터학부 재학중인 차예원입니다 🇰🇷👩🏻‍💻
+<br><i>저의 성장을 지켜봐주세요</i> 🌱
+<br><br>I'm majoring in Computer Science and Engineering
 <br>at Kyungpook National University in Daegu, South Korea 🇰🇷👩🏻‍💻
 <br><br>
 <i>Please watch my growth</i> 🌱
